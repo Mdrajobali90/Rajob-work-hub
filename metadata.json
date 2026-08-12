@@ -1,0 +1,6 @@
+{
+  "name": "My Store",
+  "description": "Commercial product catalog and customer ordering app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

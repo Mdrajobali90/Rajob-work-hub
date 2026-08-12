@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shopping Bag Handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,34 C42,27.37 47.37,22 54,22 C60.63,22 66,27.37 66,34 L66,38 L60,38 L60,34 C60,30.69 57.31,28 54,28 C50.69,28 48,30.69 48,34 L48,38 L42,38 L42,34 Z" />
+    <!-- Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36 L74,36 C76.21,36 78,37.79 78,40 L74,80 C74,82.21 72.21,84 70,84 L38,84 C35.79,84 34,82.21 34,80 L30,40 C30,37.79 31.79,36 34,36 Z" />
+    <!-- Store Front Accent / Star in middle -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M54,48 L57.1,54.3 L64,55.3 L59,60.2 L60.2,67.1 L54,63.8 L47.8,67.1 L49,60.2 L44,55.3 L50.9,54.3 Z" />
+</vector>
